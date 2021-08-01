@@ -1,0 +1,11 @@
+{
+  "name": "dev-connector-backend",
+  "version": "1.0.0",
+  "description": "Social Network for developers learned during MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gmalik83",
+  "license": "MIT"
+}
